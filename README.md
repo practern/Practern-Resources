@@ -1,3 +1,5 @@
+# Practern
+## Be the Part of Top 1% Talent
 ## This page contains all the resources for study purpose and are reffered to by Practern. Please refer to the resources by the Topics and Sub-Topics
 
 ### 1. [FrontEnd Development](001_Frontend_Development/README.md)
